@@ -1,0 +1,7 @@
+[submodule "flag-quiz"]
+    path = flag-quiz
+    url = https://github.com/Cee-kings/Flag-Quiz-Bot
+
+[submodule "scramble"]
+    path = scramble
+    url = https://github.com/Cee-kings/Scramble-bot
