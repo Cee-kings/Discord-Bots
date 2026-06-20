@@ -8,6 +8,7 @@ RUN npm install -g pnpm
 
 WORKDIR /app
 
+# cache-bust: 2026-06-20-1
 RUN git clone https://github.com/Cee-kings/Flag-Quiz-Bot flag-quiz
 RUN git clone https://github.com/Cee-kings/Scramble-bot scramble
 
